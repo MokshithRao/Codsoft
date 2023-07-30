@@ -6,6 +6,7 @@ This project aims to create a GUI-based application using Python, allowing users
 
 # Codsoft Task2 - CALCULATOR
 A simple GUI Calculator using Tkinter in Python.
+
 ![image](https://github.com/MokshithRao/Codsoft/assets/111580947/ccd0bad0-865b-4237-bebe-697d623a74c8)
 
 How it works?
