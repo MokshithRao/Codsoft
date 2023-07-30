@@ -15,7 +15,7 @@ How it works?
 It has an entrybox that can accept input from the keyboard. Additionally, it also has some buttons which when pressed automatically inserts the corresponding character in the entrybox. After that, when the equal button is clicked, it takes the input from the entrybox and evaluates the result and displayed in entry box.
 
 
-#Codsoft Task3 - PASSWORD GENERATOR
+# Codsoft Task3 - PASSWORD GENERATOR
 A password generator is a useful tool that generates strong and random passwords for users.
 This project aims to create a password generator command-line application using Python, allowing users to specify the length of the password.
 
