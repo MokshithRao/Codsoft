@@ -20,6 +20,7 @@ A password generator is a useful tool that generates strong and random passwords
 This project aims to create a password generator command-line application using Python, allowing users to specify the length of the password.
 
 User Input: Prompt the user to specify the desired length of the password.
+
 Display the Password: Print the generated password on the screen.
 
 ![image](https://github.com/MokshithRao/Codsoft/assets/111580947/59455490-cf81-42a6-a9ea-2431d2cb4d34)
